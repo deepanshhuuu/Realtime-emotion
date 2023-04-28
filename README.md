@@ -1,6 +1,7 @@
 # Emotion_detection_with_CNN
 
-![emotion_detection](https://github.c![image](https://user-images.githubusercontent.com/107347869/235224255-7cc058c0-3aec-46fc-b798-7e570ffb2b45.jpg)
+![image](https://user-images.githubusercontent.com/107347869/235224666-17c7c730-908d-4856-a09f-11c0ac0e376d.jpg)
+
 
 ### Packages need to be installed
 - pip install numpy
