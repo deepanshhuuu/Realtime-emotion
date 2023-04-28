@@ -10,7 +10,7 @@
 - pip3 install --upgrade tensorflow
 - pip install pillow
 
-### download FER2013 dataset
+### Download FER2013 dataset
 - You can download the FER 2013 dataset from the link given below 
 - https://www.kaggle.com/msambare/fer2013
 
